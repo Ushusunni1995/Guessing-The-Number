@@ -1,4 +1,4 @@
-# Guessing-The-Number
+# Guess-The-Number-Game
 This is a simple Python program that allows users to play a "Guess the Number" game.
 
 Requirements
