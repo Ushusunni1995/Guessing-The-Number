@@ -6,6 +6,7 @@ Requirements
 To run this program, you will need:
 
 Python 3.x
+
 PyCharm or any other IDE
 
 Getting Started
